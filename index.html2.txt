@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Менің Портфолиом</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Менің Портфолиом</h1>
+    </header>
+
+    <section class="content">
+        <h2>Қош келдіңіздер!</h2>
+        <p>Бұл менің портфолиом. Мұнда менің жобаларым мен жұмыстарым бар.</p>
+
+        <div class="portfolio">
+            <h3>Менің Портфолиом</h3>
+            <a href="https://nazerkeaidynbek707.wixsite.com/nazerke7" target="_blank">
+                <button class="portfolio-btn">Көру</button>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Барлық құқықтар қорғалған</p>
+    </footer>
+
+</body>
+</html>
